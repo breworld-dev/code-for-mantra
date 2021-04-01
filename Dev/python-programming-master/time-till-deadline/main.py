@@ -12,3 +12,5 @@ time_till = deadline_date - today_date
 
 hours_till = int(time_till.total_seconds() / 60 / 60)
 print(f"Dear user! Time remaining for your goal: {goal} is {hours_till} hours")
+
+###mantra.mehta@gmail.com
